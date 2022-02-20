@@ -1,0 +1,8 @@
+import styled from "styled-components";
+
+export const Heading = styled.h1`
+  font-size: 1.5em;
+  margin-top: 1.5rem;
+  text-align: center;
+  color: #1f2937;
+`;
